@@ -4,7 +4,8 @@
 
 ### Configure AWS
 
-You need to have an AWS account, and AWS CLI set up on your machine. You'll also need to have Bedrock enabled on AWS (and granted model access to Claude or whatever you want to use).
+1. Sent up an AWS account and AWS CLI if you don't already have one
+2. Enable Bedrock enabled on AWS (and granted model access to Claude or whatever you want to use).
 
 ### Update .env File with AWS Credentials
 
